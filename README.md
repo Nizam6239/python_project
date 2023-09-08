@@ -1,2 +1,2 @@
 # python_project
-simple/basic project of pyhon
+simple/basic project of python
